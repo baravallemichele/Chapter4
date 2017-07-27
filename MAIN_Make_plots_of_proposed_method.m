@@ -2,7 +2,7 @@ clear all
 clc
 clear global
 %% INPUT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%define global data
+%define global variables
 global data
 %Random variables
     %Resistance
