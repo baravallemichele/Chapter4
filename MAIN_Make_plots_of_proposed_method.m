@@ -1,3 +1,11 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Scripts behind calculations presented in the article:
+% A framework for estimating the implicit safety level of existing design codes
+% Proceedings of the 12th International Conference on Structural Safety & Reliability (ICOSSAR2017) 6-10 August, 2017 Vienna, Austria.
+%     Michele Baravalle a,*
+%     Jochen Köhler a
+% a)Dept. of Structural Engineering, Norwegian University of Science & Technology, Richard Birkelands vei 1A, 7491 Trondheim, Norway
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all
 clc
 clear global
