@@ -1,5 +1,4 @@
-# A framework for estiamting the implicit safety level of existing design codes
-
+# Chapter 3
 This folder contains the scripts behind the calculations presented in the article:
 ## A framework for estimating the implicit safety level of existing design codes
 Baravalle M., Kohler J.
